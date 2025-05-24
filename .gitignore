@@ -1,2 +1,4 @@
 config.js 
--e ".DS_Store\nThumbs.db\n.vscode/" 
+.DS_Store
+Thumbs.db
+.vscode/
